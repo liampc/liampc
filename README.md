@@ -10,14 +10,15 @@ It took quite a time of trying and exploring different programming languages fro
 
 
 ## FrontendMentor Projects 
+Projects focusing on creating responsive and pixel perfect web pages based from a web design.
 
-2. REST Countries
+1. REST Countries
 
 - Live Preview: https://liampc.github.io/rest-countries/
 - Code: https://github.com/liampc/rest-countries
 - Built with: React Framework, consume API from REST Countries
 
-1. Social Proof Section
+2. Social Proof Section
 - Live Preview: https://liampc.github.io/frontend-social-proof-section/
 - Code: https://github.com/liampc/frontend-social-proof-section
 - Built with: HTML5, CSS3, SASS, Vanilla JavaScript
@@ -30,7 +31,7 @@ It took quite a time of trying and exploring different programming languages fro
 
 
 ## Odin Projects 
-
+Projects made as part of learning about JavaScript as a core language for frontend development. 
 
 1.  My Library
 - Live Preview: https://liampc.github.io/Library/
