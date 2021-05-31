@@ -2,7 +2,7 @@
 
 # Hello there, welcome to my github page! 
 
-I am a self-taught web developer focusing on frontend development. I enjoy using the **HTML5, CSS3** and **JavaScrip**t core languages together 
+I am a self-taught web developer with a focus on frontend development. I enjoy using the **HTML5, CSS3** and **JavaScrip**t core languages together 
 with **SASS** and **React** in creating responsive web pages.
 
 
