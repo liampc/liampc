@@ -52,7 +52,7 @@ Projects made as part of learning about JavaScript as a core language for fronte
 ---
 
 Currently on a break but still totally in love with web development and programming! If you are interested in working together
-send me a message to my email at kathliampcarlos@gmail.com
+send me a message to my email at lia.carlos23@gmail.com
 
 
 See Ya! 
